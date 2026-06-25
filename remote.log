@@ -1,0 +1,1 @@
+b43f599a-440b-4716-8ff7-f9df5caabc8f autoenable=true bucket=cneuromod.retinotopy.timeseries chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.retinotopy.timeseries port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1782411795.566080424s
